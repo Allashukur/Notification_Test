@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441549105352",
+    "project_id": "baxtiyor-uz",
+    "storage_bucket": "baxtiyor-uz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441549105352:android:fae3e97a29fe37a9cf9dfd",
+        "android_client_info": {
+          "package_name": "com.example.myclicktest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441549105352-vihk1pvvdbeusmuta3kl5ampoejho8kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwoNLoVjacZugfe-FM2URA7OTT2QAGRQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441549105352-vihk1pvvdbeusmuta3kl5ampoejho8kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

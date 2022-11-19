@@ -1,0 +1,30 @@
+package uz.ibrohim.a1book.model
+
+data class GetUserData(
+//    val @context: String,
+//    val @id: String,
+//    val @type: String,
+    val adult: Int,
+    val author: String,
+    val categories: List<Category>,
+    val chat: Any,
+    val copyright: String,
+    val coverSourceUrl: String,
+    val createdAt: String,
+    val description: String,
+    val externalId: String,
+    val id: Int,
+    val image: Any,
+    val isDeleted: Boolean,
+    val name: String,
+    val price: Int,
+    val size: Int,
+    val source: Int,
+    val text: String,
+    val updatedAt: String,
+    val viewsCount: Int,
+    val votes: List<Any>,
+    val votesTotalCount: Int,
+    val votesTotalUser: Int,
+    val writtenDate: String
+)
